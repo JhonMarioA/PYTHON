@@ -9,7 +9,7 @@ import modulo_saludar  # Se importa el modulo con la función (Nombre del archiv
 # from modulo_saludar import *   -> Lo usamos para importar todas las funciones (MUY MALA PRACTICA, gasta muchos recursos)
 
 
-saludo = modulo_saludar.saludar("Mariolin")     # Llamamos a la función como un metodo
+saludo = modulo_saludar.saludar("Mario")     # Llamamos a la función como un metodo
 
 print(saludo)
 
