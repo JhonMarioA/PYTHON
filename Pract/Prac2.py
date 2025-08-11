@@ -81,6 +81,18 @@ for name, contents in drinks.items():
 
 
 
-#_________________________________________ modules
+#_________________________________________ modules, try-except
 
 print(math.ceil(2.2))
+
+try:
+    result = 10/0
+except ZeroDivisionError: #Exception as e:
+    print("An error was found because you were trying to divide by zero")
+    result = None  
+except Exception as e:
+    print(f"Exception: {e}")
+    result = None
+finally:
+    print(result)
+
