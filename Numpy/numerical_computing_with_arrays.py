@@ -56,3 +56,14 @@ print(arr3.shape)
 
 print(np.matmul(climate_data, weights))
 print(climate_data @ weights)
+
+
+#comparision operations like ==, !=, >... with arrays
+
+
+arr1 = np.array([[1,2,3], [3,4,5]])
+arr2 = np.array([[1,2,3], [3,4,5]])
+
+print(arr1 == arr2)
+print((arr1 == arr2).sum()) #to count the machtes
+print(arr1 > arr2)
