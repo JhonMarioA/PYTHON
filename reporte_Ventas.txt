@@ -1,0 +1,3 @@
+Reporte del departamento: Ventas
+Ana - Salario neto: 2200
+Luis - Salario neto: 2350
