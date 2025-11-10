@@ -1,0 +1,8 @@
+[
+    {
+        "nombre": "TV",
+        "precio": 1000000.0,
+        "cantidad": 5,
+        "garantia": 12
+    }
+]

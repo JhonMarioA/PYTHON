@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<tienda>
+ <productos>
+  <producto id="1"><nombre>Arroz</nombre><precio>3000</precio><cantidad>8</cantidad></producto>
+  <producto id="2"><nombre>Frijo</nombre><precio>3200</precio><cantidad>6</cantidad></producto>
+  <producto id="4"><nombre>lentejas</nombre><precio>4000</precio><cantidad>32</cantidad></producto>
+ </productos>
+
+ <clientes>
+  <cliente id="1"><nombre>Marco Aurelio</nombre><saldo>10000</saldo></cliente>
+  <cliente id="2"><nombre>Cristiano Ronaldo</nombre><saldo>9000</saldo></cliente>
+  <cliente id="3"><nombre>NeymarJr</nombre><saldo>30000</saldo></cliente>
+ </clientes>
+</tienda>
